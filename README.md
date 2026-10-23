@@ -14,7 +14,7 @@ This isn't a major rewrite of the materials, just a straight copy-over with no s
 - `M_Prototype_Grid`
 - `M_Solid`
 
-### Child Materials Instnaces
+### Child Materials Instances
 - `MI_Grey_Prototype_Grid`
 - `MI_Orange_Prototype_Grid`
 - `MI_White_Prototype_Grid`
